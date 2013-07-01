@@ -1,6 +1,11 @@
-Fosslink V1 beta 
-=========
+Fosslink Home Page V1 
+=========================
 
-Technology :
-	nivo slider
-	
+Powered by : 
+
+Nivo Slider
+HTML 5
+
+Coded By Fosslink
+
+=========================
