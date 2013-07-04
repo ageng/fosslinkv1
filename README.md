@@ -3,10 +3,10 @@ Fosslink Home Page V1
 
 Powered by : 
 
-  Nivo Slider
-  HTML 5
-  Emailmeform 
-  Prety photo plugins
+  Nivo Slider <br>
+  HTML 5 <br>
+  Emailmeform <br> 
+  Prety photo plugins <br>
 
 Coded By Fosslink
 
